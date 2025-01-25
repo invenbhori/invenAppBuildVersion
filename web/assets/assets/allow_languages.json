@@ -1,0 +1,19 @@
+{
+    "languages": [
+        {
+            "languageid": "1",
+            "language": "English",
+            "filename": "en.json"
+        },
+        {
+            "languageid": "2",
+            "language": "मराठी",
+            "filename": "mr.json"
+        },
+        {
+            "languageid": "3",
+            "language": "हिंदी",
+            "filename": "hn.json"
+        }
+    ]
+}
