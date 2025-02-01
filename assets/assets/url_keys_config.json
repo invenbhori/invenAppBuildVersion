@@ -1,11 +1,9 @@
 {
-    "Api_Url": "http://192.168.43.216:8082/api",
-    "verifyMobileEndPont": "/usertoken",
-    "vehicleTypesEndPoint": "/vehicletypes",
-    "verifyOtpEndPont": "/login.php",
-    "registerEndPont": "/register.php",
-    "imgUpldEndPont": "/submit_image.php",
-    "requestOTPEndPoint": "/request_otp.php",
-    "verifyOTPEndPoint": "/verify_otp.php",
-    "sslEnabledConnection":false
+    "Api_Url": "https://inven-vercel.vercel.app/api",
+    "verifyMobileEndPont": "/login",
+    "registerEndPont": "/signup",
+    "frmTwlvBBEndPoint": "/FrmTwlvBBCreate",
+    "frmTwlvBBGetEndPoint": "/FrmTwlvBBGet",
+    "sslEnabledConnection":false,
+    "Hmac_Secret":"8840bdbb1670f20f42c29a7db8bff222"
 }
